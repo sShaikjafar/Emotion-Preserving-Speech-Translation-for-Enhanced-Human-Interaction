@@ -1,0 +1,2 @@
+# Emotion-Preserving-Speech-Translation-for-Enhanced-Human-Interaction
+This project focuses on enhancing cross-lingual communication by translating speech while preserving the speaker's emotional intent. By combining emotion recognition and speech synthesis technologies, the system delivers emotionally accurate translations, making human-computer and human-human interactions more natural and impactful.
